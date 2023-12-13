@@ -1,4 +1,4 @@
-<!-- viewarticle.blade.php -->
+
 
 @extends('dashboard')
 
